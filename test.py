@@ -12,6 +12,7 @@ def test_debug():
     c = a+b
     d = abs(c)
     print(d)
+    print(d)
 
 
 if __name__ == '__main__':
